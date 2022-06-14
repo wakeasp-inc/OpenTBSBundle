@@ -1,6 +1,6 @@
 <?php
 
-namespace MBence\OpenTBSBundle;
+namespace Wakeasp\OpenTBSBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
