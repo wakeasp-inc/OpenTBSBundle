@@ -18,8 +18,8 @@
     },
     "autoload": {
         "psr-0": {
-            "MBence\\OpenTBSBundle": ""
+            "Wakeasp\\OpenTBSBundle": ""
         }
     },
-    "target-dir": "MBence/OpenTBSBundle"
+    "target-dir": "Wakeasp/OpenTBSBundle"
 }
