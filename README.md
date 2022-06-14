@@ -55,7 +55,7 @@ public function registerBundles()
 {
     $bundles = array(
         // ...
-        new MBence\OpenTBSBundle\OpenTBSBundle(),
+        new Wakeasp\OpenTBSBundle\OpenTBSBundle(),
     );
 }
 ```
